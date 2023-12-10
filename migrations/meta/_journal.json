@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702196031505,
+      "tag": "0000_lumpy_gravity",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1702196532063,
+      "tag": "0001_modern_juggernaut",
+      "breakpoints": true
+    }
+  ]
+}
